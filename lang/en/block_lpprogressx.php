@@ -32,5 +32,5 @@ $string['insidebar_help'] = 'A single-column layout is used in the sidebar, othe
 $string['completed'] = 'Completed!';
 $string['checkchar'] = '◉';
 $string['uncheckchar'] = '◎';
-$string['pluginname'] = 'Learning Plans Progress (x-version)';
+$string['pluginname'] = 'My Learning Path Progress';
 $string['linkedcourses'] = 'Learning and exam (linked nuggets)';

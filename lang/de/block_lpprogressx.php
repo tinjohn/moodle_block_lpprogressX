@@ -31,6 +31,6 @@ $string['insidebar_help'] = 'In der Sidebar wird ein einspalten Layout verwendet
 $string['completed'] = 'abgeschlossen';
 $string['checkchar'] = '◉';
 $string['uncheckchar'] = '◎';
-$string['pluginname'] = 'Lernplan Fortschritt (x-Version)';
+$string['pluginname'] = 'Mein Lernpfadfortschritt';
 $string['linkedcourses'] = 'Lernen & Prüfen (verknüpfte Nuggets)';
 
