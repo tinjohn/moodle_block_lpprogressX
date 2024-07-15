@@ -13,7 +13,10 @@ Adds some features:
 * toggle single progress bars
 * collapse completed plans
 * button to the Add new plan interface
-* minor mods 
+* minor mods
+* Interface for Ad-Hoc Assessment
+    - add assessment courses for any course with shortname prefixrd by <AT_> e.g. AT_COURSNAME
+    - set rules for competencies in both courses according to your needs    
 
 ## License ##
 
